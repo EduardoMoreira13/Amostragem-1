@@ -1,4 +1,4 @@
-# Amostragem-AAS
+# Amostragem - AAS
 Amostra aleatória simples: estudo sobre a proporção de livros com avarias da Biblioteca Central - UnB
 
 Material desenvolvido na disciplina técnicas de amostragem do curso de Estatística da Universidade de Brasília - UnB. O código desenvolvido é na linguagem SAS.
